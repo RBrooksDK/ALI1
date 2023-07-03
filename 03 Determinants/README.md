@@ -22,5 +22,5 @@
 <p><strong>Problems to be worked on in/after&nbsp;class:</strong></p>
 <p>​​​3.1: 1, 2, 9, 43 &nbsp;&nbsp;<br />
 3.2: 1, 2, 15-20, 25 &nbsp;<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+
 If you do not finish in class, work on them at home</p>
