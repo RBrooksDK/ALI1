@@ -41,15 +41,15 @@ Click on a session below to access a plan of a specific session and additional r
 | Session | Date                 | Topic                        |
 | ------- | :----:               | ---------------------------- |
 |         |                      | [General Resources ALI (Updated regularly)](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqyrbL4eyEtPlLcHYKt3NfIBLLBs2xWNa4CtjvvZb5dKTw?e=HGyFGo)                        |
-| 01      | 9 Feb 08:20 – 11:50  | [Introduction to Linear Algebra](https://github.com/RBrooksDK/ALI1/blob/main/01%20Introduction%20to%20Linear%20Algebra/README.md) |
-| 02      | 16 Feb 08:20 – 11:50 | [Matrix Algebra](https://github.com/RBrooksDK/SMP1/blob/main/02%20Discrete%20Random%20Variables/README.md) |
-| 03      | 23 Feb 08:20 – 11:50 | [Determinants](https://github.com/RBrooksDK/SMP1/blob/main/03%20Continuous%20Random%20Variables/README.md) |
-| 04      | 2 Mar 08:20 – 11:50  | [Vector Spaces](https://github.com/RBrooksDK/SMP1/blob/main/04%20Multivariate%20Random%20Variables/README.md) |
-| 05      | 9 Mar 08:20 – 11:50  | [Eigenvalues](https://github.com/RBrooksDK/SMP1/blob/main/05%20Point%20Estimation%20and%20sampling/README.md) |
-| 06      | 16 Mar 08:20 – 11:50 | [Differential Equations](https://github.com/RBrooksDK/SMP1/blob/main/06%20Statistical%20Intervals/README.md) |
-| 07      | 23 Mar 08:20 – 11:50 | [Orthogonality 1](https://github.com/RBrooksDK/SMP1/blob/main/07%20Hypothesis%20Testing/README.md) |
-| 08      | 30 Mar 08:20 – 11:50 | [Othogonality 2](https://github.com/RBrooksDK/SMP1/blob/main/08%20Regression/README.md) |
-| 09      | 20 Apr 08:20 – 11:50 | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/SMP1/blob/main/09%20Introduction%20to%20Stochastic%20Processes/README.md)|
-| 10      | 27 Apr 08:20 – 11:50 | [Recap and Conclusion](https://github.com/RBrooksDK/SMP1/blob/main/10%20Markov%20Chains/README.md) |
+| 01      | 7 Aug 08:20 – 11:50  | [Introduction to Linear Algebra](https://github.com/RBrooksDK/ALI1/blob/main/01%20Introduction%20to%20Linear%20Algebra/README.md) |
+| 02      | 8 Aug 08:20 – 11:50 | [Matrix Algebra](https://github.com/RBrooksDK/SMP1/blob/main/02%20Discrete%20Random%20Variables/README.md) |
+| 03      | 9 Aug 08:20 – 11:50 | [Determinants](https://github.com/RBrooksDK/SMP1/blob/main/03%20Continuous%20Random%20Variables/README.md) |
+| 04      | 10 Aug 08:20 – 11:50  | [Vector Spaces](https://github.com/RBrooksDK/SMP1/blob/main/04%20Multivariate%20Random%20Variables/README.md) |
+| 05      | 11 Aug 08:20 – 11:50  | [Eigenvalues](https://github.com/RBrooksDK/SMP1/blob/main/05%20Point%20Estimation%20and%20sampling/README.md) |
+| 06      | 14 Aug 08:20 – 11:50 | [Differential Equations](https://github.com/RBrooksDK/SMP1/blob/main/06%20Statistical%20Intervals/README.md) |
+| 07      | 15 Aug 08:20 – 11:50 | [Orthogonality 1](https://github.com/RBrooksDK/SMP1/blob/main/07%20Hypothesis%20Testing/README.md) |
+| 08      | 16 Aug 08:20 – 11:50 | [Othogonality 2](https://github.com/RBrooksDK/SMP1/blob/main/08%20Regression/README.md) |
+| 09      | 17 Aug 08:20 – 11:50 | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/SMP1/blob/main/09%20Introduction%20to%20Stochastic%20Processes/README.md)|
+| 10      | 21 Aug 08:20 – 11:50 | [Recap and Conclusion](https://github.com/RBrooksDK/SMP1/blob/main/10%20Markov%20Chains/README.md) |
 
 </div>
