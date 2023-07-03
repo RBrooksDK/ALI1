@@ -40,5 +40,5 @@
 1.3: 11, 13, 14, 28 &nbsp;&nbsp;&nbsp;&nbsp;<br />
 1.4: 6, 8, 11, 17, 18​ &nbsp;&nbsp;<br />
 1.5: 7, 15, 23, 24&nbsp;<br />
-&nbsp;<br />
+
 If you do not finish in class, work on them at home</p>
