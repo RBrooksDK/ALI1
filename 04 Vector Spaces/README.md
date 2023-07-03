@@ -30,5 +30,5 @@
 4.3.: 9-10, 13, 17, 18, 36 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
 4.5: 6, 11, 14, 17 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
 4.6: 2, 4, 35&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+
 If you do not finish in class, work on them at home</p>
