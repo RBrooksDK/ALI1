@@ -2,7 +2,9 @@
 
 ## Material:
 
-#### [Session Notes]
+[Class notes (template)]
+
+[Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EiMKdymBUehBpz9ft6ta4NABEVbrfJnmhYTNyJLH83PH9w?e=iY0JyU)
 
 <p>Lay:&nbsp;1.1-1.5 &nbsp;+ 1.7-1.10 (1.8-1.10 self-study) &nbsp;</p>
 
