@@ -29,5 +29,5 @@
 2.1: 1, 2, 10, 13, 40, 41 &nbsp;&nbsp;<br />
 2.2: 9, 30, 31, 32 &nbsp;&nbsp;<br />
 ​2.3: 11, 12, 15, 17 &nbsp;<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+
 If you do not finish in class, work on them at home</p>
