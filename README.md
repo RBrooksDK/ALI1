@@ -41,7 +41,7 @@ Click on a session below to access a plan of a specific session and additional r
 | Session | Date                 | Topic                        |
 | ------- | :----:               | ---------------------------- |
 |         |                      | [General Resources ALI (Updated regularly)](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqyrbL4eyEtPlLcHYKt3NfIBLLBs2xWNa4CtjvvZb5dKTw?e=HGyFGo)                        |
-| 01      | 9 Feb 08:20 – 11:50  | [Introduction to Linear Algebra](https://github.com/RBrooksDK/SMP1/blob/main/01%20Introduction%20%2B%20Recap%20Probability%20%2B%20Stochastic%20Variables/README.md) |
+| 01      | 9 Feb 08:20 – 11:50  | [Introduction to Linear Algebra](https://github.com/RBrooksDK/ALI1/blob/main/01%20Introduction%20to%20Linear%20Algebra/README.md) |
 | 02      | 16 Feb 08:20 – 11:50 | [Matrix Algebra](https://github.com/RBrooksDK/SMP1/blob/main/02%20Discrete%20Random%20Variables/README.md) |
 | 03      | 23 Feb 08:20 – 11:50 | [Determinants](https://github.com/RBrooksDK/SMP1/blob/main/03%20Continuous%20Random%20Variables/README.md) |
 | 04      | 2 Mar 08:20 – 11:50  | [Vector Spaces](https://github.com/RBrooksDK/SMP1/blob/main/04%20Multivariate%20Random%20Variables/README.md) |
