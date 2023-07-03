@@ -48,7 +48,7 @@ Click on a session below to access a plan of a specific session and additional r
 | 05      | 11 Aug 08:20 – 11:50  | [Eigenvalues](https://github.com/RBrooksDK/ALI1/blob/main/05%20Eigenvalues/README.md) |
 | 06      | 14 Aug 08:20 – 11:50 | [Differential Equations](https://github.com/RBrooksDK/ALI1/blob/main/06%20Differential%20Equations/README.md) |
 | 07      | 15 Aug 08:20 – 11:50 | [Orthogonality 1](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
-| 08      | 16 Aug 08:20 – 11:50 | [Othogonality 2](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
+| 08      | 16 Aug 08:20 – 11:50 | [Orthogonality 2](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
 | 09      | 17 Aug 08:20 – 11:50 | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md)|
 | 10      | 21 Aug 08:20 – 11:50 | [Recap and Conclusion](https://github.com/RBrooksDK/ALI1/blob/main/10%20Recap%20and%20Conclusion/README.md) |
 
