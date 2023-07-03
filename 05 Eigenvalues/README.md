@@ -23,5 +23,5 @@
 <p>​​5.1: 1, 3, 5, 7, 13, 16, 40 &nbsp;<br />
 5.2: 1, 3, 6, 10, 11 &nbsp;<br />
 5.3: 1, 6, 10-14, 35, 36 &nbsp;&nbsp;&nbsp;&nbsp;<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+
 If you do not finish in class, work on them at home</p>
