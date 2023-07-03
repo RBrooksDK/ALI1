@@ -1,6 +1,6 @@
 <h1 align="center">ALI1</h1>
 
-This repository contains resources for the [Applied Linear ALgebra](https://en.via.dk/tmh-courses/applied-linear-algebra) course at VIA University College, Horsens, Denmark.
+This repository contains resources for the [Applied Linear Algebra](https://en.via.dk/tmh-courses/applied-linear-algebra) course at VIA University College, Horsens, Denmark.
 
 **Literature & Resources:**
 
