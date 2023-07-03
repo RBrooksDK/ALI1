@@ -1,12 +1,12 @@
 <h2 align="center">01 Introduction to Linear Algebra</h2>
 
-<p><strong>Material:</strong></p>
+## Material:
 
 #### [Session Notes]
 
 <p>Lay:&nbsp;1.1-1.5 &nbsp;+ 1.7-1.10 (1.8-1.10 self-study) &nbsp;</p>
 
-<hr />
+## Topics
 <p>​​Definitions of Linear Equation, System of Linear Equations, Solution Set, Equivalent Systems, Consistent/inconsistent Equations.</p>
 
 <ul>
@@ -32,8 +32,7 @@
 	<li>Domain and codomain</li>
 </ul>
 
-<hr />
-<p><strong>Problems to be worked on in/after&nbsp;class:</strong></p>
+## Problems to be worked on in/after class
 
 <p>1.2: 1, 7, 9, 11, 33 &nbsp;&nbsp;<br />
 1.3: 11, 13, 14, 28 &nbsp;&nbsp;&nbsp;&nbsp;<br />
