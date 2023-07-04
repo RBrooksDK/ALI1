@@ -2,6 +2,8 @@
 
 ## Material:
 
+[Recap and Exercises (template)]
+
 [Class notes (template)]
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/Elax7Cbk0DNLhpjCdiMwfOwBmG7jxqF7AJW5boJBajmB7Q?e=NzLWfW)
