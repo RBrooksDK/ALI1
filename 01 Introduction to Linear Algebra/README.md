@@ -2,7 +2,7 @@
 
 ## Material:
 
-[Class notes (template)]
+[Class notes (template)](https://drive.google.com/file/d/1fQzf9KV8dkFbXiMARqYYEs1Ygiodgt_y/view?usp=sharing)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EiMKdymBUehBpz9ft6ta4NABEVbrfJnmhYTNyJLH83PH9w?e=iY0JyU)
 
