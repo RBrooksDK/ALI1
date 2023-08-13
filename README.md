@@ -26,6 +26,8 @@ Contrary to SMP, you do not need to recap MSE topics. More so it would be import
 **Online Resources:**
 <p>If you want to check out online courses about linear algebra there is really only one resource that you need to direct your attention to: <a target="_blank" href="https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8">MIT 18.06 Linear Algebra</a>, Spring 2005 by&nbsp;the legendary Prof.&nbsp;Gilbert Strang. This is teaching at its very purest and finest.</p>
 
+A student alerted me to this online course on youtube from [3Blue1Brown](https://www.youtube.com/@3blue1brown) which is called [Essence of linear algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab). I've seen a couple of them and they may assist you in visualising some of the abstract concepts that we go through. It's lightweight theoretically but the animations may be helpful.
+
 **Exercises and Previous Exams**
 
 The provided solutions to the exercises from the book were provided by the publisher and were thus not made by me. The previous exam cases are divided into two parts: one before and one after Wiseflow. Your exam will be new in the sense that it will contain an element with Flowlock. The exercises will still be similar to the previous cases and they are thus representative of the ones you will encounter. The difference will be that the more Python-intensive exercises will be in the part with aids and the ones that can be done just as quick by hand will be in the Flowlock part.
