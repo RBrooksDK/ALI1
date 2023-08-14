@@ -4,7 +4,7 @@
 
 [Recap and Exercises (template)]
 
-[Class notes (template)]
+[Class notes (template)](https://drive.google.com/file/d/1jRZVIZR2YGt7QvjEeLm4XAFTXa3fqK3U/view?usp=sharing)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EsTiRlgRBLpMku31mwnbViIBHTOgpvFeUWhBaN0WGJJMkA?e=KYrKvB)
 
