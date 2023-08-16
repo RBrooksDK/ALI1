@@ -2,9 +2,9 @@
 
 ## Material:
 
-[Recap and Exercises (template)]
+[Recap and Exercises (template)](https://drive.google.com/file/d/1douAmKQNHUD4RJL3WUMc673sFw6__iPe/view?usp=sharing)
 
-[Class notes (template)]
+[Class notes (template)](https://drive.google.com/file/d/1zmaI-lhLPInvDZ089V6V9G6u0wAMmzPm/view?usp=sharing)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EtRvmMnYXORCi6BvOYlcc5IBsurTuKp_Tj7q-MY-SjV4ng?e=ttcO3r)
 
