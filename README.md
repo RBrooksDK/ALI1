@@ -44,14 +44,14 @@ Click on a session below to access a plan of a specific session and additional r
 | ------- | :----:               | ---------------------------- |
 |         |                      | [General Resources ALI (Updated regularly)](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqyrbL4eyEtPlLcHYKt3NfIBLLBs2xWNa4CtjvvZb5dKTw?e=HGyFGo)                        |
 | 01      | 5 Aug 08:20 – 11:50  | [Introduction to Linear Algebra](https://github.com/RBrooksDK/ALI1/blob/main/01%20Introduction%20to%20Linear%20Algebra/README.md) |
-| 02      | 8 Aug 08:20 – 11:50 | [Matrix Algebra](https://github.com/RBrooksDK/ALI1/blob/main/02%20Matrix%20Algebra/README.md) |
-| 03      | 9 Aug 08:20 – 11:50 | [Determinants](https://github.com/RBrooksDK/ALI1/blob/main/03%20Determinants/README.md) |
-| 04      | 10 Aug 08:20 – 11:50  | [Vector Spaces](https://github.com/RBrooksDK/ALI1/blob/main/04%20Vector%20Spaces/README.md) |
-| 05      | 11 Aug 08:20 – 11:50  | [Eigenvalues](https://github.com/RBrooksDK/ALI1/blob/main/05%20Eigenvalues/README.md) |
-| 06      | 14 Aug 08:20 – 11:50 | [Differential Equations](https://github.com/RBrooksDK/ALI1/blob/main/06%20Differential%20Equations/README.md) |
-| 07      | 15 Aug 08:20 – 11:50 | [Orthogonality 1](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
-| 08      | 16 Aug 08:20 – 11:50 | [Orthogonality 2](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
-| 09      | 17 Aug 08:20 – 11:50 | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md)|
-| 10      | 21 Aug 08:20 – 11:50 | [Recap and Conclusion](https://github.com/RBrooksDK/ALI1/blob/main/10%20Recap%20and%20Conclusion/README.md) |
+| 02      | 6 Aug 08:20 – 11:50 | [Matrix Algebra](https://github.com/RBrooksDK/ALI1/blob/main/02%20Matrix%20Algebra/README.md) |
+| 03      | 7 Aug 08:20 – 11:50 | [Determinants](https://github.com/RBrooksDK/ALI1/blob/main/03%20Determinants/README.md) |
+| 04      | 8 Aug 08:20 – 11:50  | [Vector Spaces](https://github.com/RBrooksDK/ALI1/blob/main/04%20Vector%20Spaces/README.md) |
+| 05      | 9 Aug 08:20 – 11:50  | [Eigenvalues](https://github.com/RBrooksDK/ALI1/blob/main/05%20Eigenvalues/README.md) |
+| 06      | 12 Aug 08:20 – 11:50 | [Differential Equations](https://github.com/RBrooksDK/ALI1/blob/main/06%20Differential%20Equations/README.md) |
+| 07      | 13 Aug 08:20 – 11:50 | [Orthogonality 1](https://github.com/RBrooksDK/ALI1/blob/main/07%20Orthogonality%20I/README.md) |
+| 08      | 14 Aug 08:20 – 11:50 | [Orthogonality 2](https://github.com/RBrooksDK/ALI1/blob/main/08%20Orthogonality%20II/README.md) |
+| 09      | 15 Aug 08:20 – 11:50 | [Symmetric Matrices, SVD and PCA](https://github.com/RBrooksDK/ALI1/blob/main/09%20Symmetric%20Matrices%2C%20SVD%2C%20and%20PCA/README.md)|
+| 10      | 20 Aug 08:20 – 11:50 | [Recap and Conclusion](https://github.com/RBrooksDK/ALI1/blob/main/10%20Recap%20and%20Conclusion/README.md) |
 
 </div>
