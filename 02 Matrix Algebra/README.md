@@ -2,7 +2,7 @@
 
 ## Material:
 
-[Recap and Exercises (template)](https://drive.google.com/file/d/1RwgQGUu6RAdujxCFql_LrxmNyPQjE_e6/view?usp=sharing)
+[Recap and Exercises (template)](https://drive.google.com/file/d/1I8F3IBcXFEPZvXQTBPpm4JK1q_Y3gz6_/view?usp=sharing)
 
 [Class notes (template)](https://drive.google.com/file/d/1k2K-F2LlovY1IpTqFToRwPv8bi7bQ-EZ/view?usp=sharing)
 
