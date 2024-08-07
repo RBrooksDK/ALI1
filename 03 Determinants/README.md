@@ -4,7 +4,7 @@
 
 [Recap and Exercises (template)](https://drive.google.com/file/d/1a-bCd54HRlofetHhaDEvVVjdQEuCmY9b/view?usp=sharing)
 
-[Class notes (Richard's)](https://drive.google.com/file/d/16-VdRO_e6X2bwNpUfeJVkoZrT-naFC3Q/view?usp=sharing)
+[Class notes (Richard's)](https://drive.google.com/file/d/1ANv000JgLWsLty3SRbfPA7o7moQ7vSGX/view?usp=sharing)
 
 [Session material](https://viaucdk-my.sharepoint.com/:f:/g/personal/rib_viauc_dk/EqnOhUdCrwBLpZNg2NSxmaUBIxBFaoMXe4X_erAXqiUJFA?e=CVLt0G)
 
